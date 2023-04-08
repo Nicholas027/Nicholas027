@@ -12,7 +12,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Nicholas027&style=flat-square&color=red" alt=""/>
 <h1>
-  hey there
+  Hey there!.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -23,14 +23,14 @@
 :man_technologist: About Me :
 </h2>
 <div>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tucumán, Argentina.
 </div>
 <div>
-:telescope: I’m studying as a Software Development and Quality
+:telescope: I’m studying as a Software Development and Quality.
 
 :seedling: Exploring all news technologies and exploring for new learning.
 
-:book: Continuous Studying
+:book: Continuous Studying.
 </div>
 <h2>
 :hammer_and_wrench: Languages and Tools :
