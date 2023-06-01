@@ -26,9 +26,7 @@
 I'm a FullStack Developer from Tucumán, Argentina.
 </div>
 <div>
-:telescope: I’m studying as a Software Development and Quality.
-:seedling: Exploring all news technologies and exploring for new learning.
-:book: Continuous Studying.
+:telescope: I’m studying as a Software Development and Quality. Exploring all news technologies and exploring for new learning and experiences.
 </div>
 <h2>
 :hammer_and_wrench: Languages and Tools:
