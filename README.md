@@ -20,20 +20,18 @@
 </div>
 </div>
 <h2>
-:man_technologist: About Me :
+:man_technologist: About Me:
 </h2>
 <div>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tucumán, Argentina.
+I'm a FullStack Developer from Tucumán, Argentina.
 </div>
 <div>
 :telescope: I’m studying as a Software Development and Quality.
-
 :seedling: Exploring all news technologies and exploring for new learning.
-
 :book: Continuous Studying.
 </div>
 <h2>
-:hammer_and_wrench: Languages and Tools :
+:hammer_and_wrench: Languages and Tools:
 </h2>
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
