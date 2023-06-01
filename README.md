@@ -12,7 +12,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Nicholas027&style=flat-square&color=red" alt=""/>
 <h1>
-  Hey there!.
+  Heγ theɾe!.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -23,13 +23,13 @@
 :man_technologist: About Me:
 </h2>
 <div>
-I'm a FullStack Developer from Tucumán, Argentina.
+I'm ɑ FullStɑck Developeɾ fɾom Tucumɑ́n, Aɾgentinɑ.
 </div>
 <div>
-:telescope: I’m studying as a Software Development and Quality. Exploring all news technologies and exploring for new learning and experiences.
+:telescope: I’m studγing ɑs ɑ Softwɑɾe Development ɑnd Quɑlitγ. Exploɾing ɑll news technologies ɑnd exploɾing foɾ new leɑɾning ɑnd expeɾiences.
 </div>
 <h2>
-:hammer_and_wrench: Languages and Tools:
+:hammer_and_wrench: Lɑnguɑges ɑnd Tools:
 </h2>
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
