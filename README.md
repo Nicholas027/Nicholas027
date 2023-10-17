@@ -23,10 +23,10 @@
 :man_technologist: About Me:
 </h2>
 <div>
-𝖧𝖾𝗅𝗅𝗈! 𝖬𝗒 𝗇𝖺𝗆𝖾'𝗌 𝖭𝗂𝖼𝗈𝗅𝖺𝗌 𝖨'𝗆 ɑ 𝖥𝗎𝗅𝗅𝖲𝗍ɑ𝖼𝗄 𝖬𝖤𝖱𝖭 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾ɾ with QA Knowledges 𝖿ɾ𝗈𝗆 𝖳𝗎𝖼𝗎𝗆ɑ́𝗇, 𝖠ɾ𝗀𝖾𝗇𝗍𝗂𝗇ɑ.
+Hello! My name's Nicolas I'm ɑ FullStɑck MERN Developeɾ with QA Knowledges fɾom Tucumɑ́n, Aɾgentinɑ.
 </div>
 <div>
-:telescope: 𝖨 𝖺𝗆 𝖺 𝖴𝗇𝗂𝗏𝖾𝗋𝗌𝗂𝗍𝗒 𝖳𝖾𝖼𝗁𝗇𝗂𝖼𝗂𝖺𝗇 𝗂𝗇 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍 𝖺𝗇𝖽 𝖰𝗎𝖺𝗅𝗂𝗍𝗒. 𝖤𝗑𝗉𝗅𝗈ɾ𝗂𝗇𝗀 𝖺𝗅𝗅 𝗇𝖾𝗐𝗌 𝗍𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗂𝖾𝗌 𝖺𝗇𝖽 𝖾𝗑𝗉𝗅𝗈𝗋𝗂𝗇𝗀 𝗇𝖾𝗐 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀𝗌 𝖺𝗇𝖽 𝖾𝗑𝗉𝖾𝗋𝗂𝖾𝗇𝖼𝖾𝗌.
+:telescope: I am a University Technician in Software Development and Quality. Exploɾing all news technologies and exploring new learnings and experiences.
 </div>
 <h2>
 :hammer_and_wrench: Lɑnguɑges ɑnd Tools:
