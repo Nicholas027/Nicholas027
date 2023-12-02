@@ -20,7 +20,7 @@
 </div>
 </div>
 <h2>
-:man_technologist: About Me:
+About Me:
 </h2>
 <div>
 Hello! My name's Nicolas I'm ɑ FullStɑck MERN Developeɾ with QA Knowledges fɾom Tucumɑ́n, Aɾgentinɑ.
@@ -29,7 +29,7 @@ Hello! My name's Nicolas I'm ɑ FullStɑck MERN Developeɾ with QA Knowledges f�
 :telescope: I am a University Technician in Software Development and Quality. Exploɾing all news technologies and exploring new learnings and experiences.
 </div>
 <h2>
-:hammer_and_wrench: Lɑnguɑges ɑnd Tools:
+Lɑnguɑges ɑnd Tools:
 </h2>
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
