@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicholas027" alt="nicholas027" /></a> </p>
 
-- 🎓 I'm a software development and quality technician
+- 🎓 I'm a web developer with QA Knowledge
 
 - 🌱 I’m currently learning **Fulltack MERN developer on RollingCode School** and in intensive backend learning!
 
