@@ -7,8 +7,6 @@
 
 - 🎓 I'm a web developer with QA Knowledge
 
-- 🌱 I’m currently learning **Fullstack MERN development on RollingCode School** and in intensive backend learning!
-
 - 📫 How to reach me **nicholas0810152015@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
